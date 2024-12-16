@@ -13,7 +13,7 @@
 				<configuration>
 					<archive>
 						<manifestEntries>
-							<Main-Class>com.yourpackage.MainClass</Main-Class> <!-- Replace with your actual main class -->
+							<Main-Class>launchBrowser.Chrome</Main-Class> <!-- Replace with your actual main class -->
 						</manifestEntries>
 					</archive>
 				</configuration>
